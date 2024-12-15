@@ -1,6 +1,6 @@
 n: 2
 central: True
-gpu: True
+gpu: False
 server: "node1"
 order: [1, 2, 3]
 nodes:
